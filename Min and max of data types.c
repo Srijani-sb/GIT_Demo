@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<math.h>
+
+#some commit changes
 int main()
 {
 	long int min = (pow(2,sizeof(long int)) / 2) * -1;
