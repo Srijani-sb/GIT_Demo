@@ -1,4 +1,5 @@
 #include <stdio.h>
+#editing 
 int palin(int n,int temp)
 {
 	if (n==0)
